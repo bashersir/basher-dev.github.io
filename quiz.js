@@ -1,12 +1,12 @@
 //Question bank
 var questionBank= [
     {
-        question : "Water is formed by---",
+        question : 'Water is formed by---',
         option : ['oxygen','carbon','hydrogen','i & iii'],
         answer : 'i & iii'
     },
     {
-        question : "Renewable energy sources do not damage---?",
+        question : 'Renewable energy sources do not damage---?',
         option : ['the mill','the river','the environment','heat and light'],
         answer : 'the environment'
     },
