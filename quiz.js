@@ -6,7 +6,7 @@ var questionBank= [
         answer : 'i & iii'
     },
     {
-        question : "Renewable energy sources are do not damage---?",
+        question : "Renewable energy sources do not damage---?",
         option : ['the mill','the river','the environment','heat and light'],
         answer : 'the environment'
     },
