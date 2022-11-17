@@ -28,7 +28,7 @@ var questionBank= [
     {
         question : 'The burning of ---- contaminates our environment.',
         option : ['oil','coal','gas','all the options'],
-        answer : 'hydro-carbon'
+        answer : 'all the options'
     },
     {
         question : 'Modern day wind turbines produce---',
