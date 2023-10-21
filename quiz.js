@@ -1,9 +1,9 @@
 //Question bank
 var questionBank= [
     {
-        question : 'Renewable energy sources do not damage---?',
-        option : ['the mill','the river','the environment','heat and light'],
-        answer : 'the environment'
+        question : '(a) River gypsies are the people who -----.',
+        option : ['stay permanently at a place','travel from one place to another for pleasure','move from one place to another by boat to earn their livelihood','roam around on horse-back'],
+        answer : 'move from one place to another by boat to earn their livelihood'
     },
     {
         question : 'Where does most renewable energy come from?',
